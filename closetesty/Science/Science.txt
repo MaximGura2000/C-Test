@@ -1,0 +1,71 @@
+1. Kolik planet ma Slunecni soustava?
+a) 6;
+b) 7;
+c) 8;
+d) 10;
+
+2. Kdo je autor jazyka C?
+a) Dennis Ritchie; 
+b) Mark Elliot Zuckerberg; 
+c) Bjarne Stroustrup; 
+d) Elon Musk;
+
+3. Hlavni mesto Ceske republiky je ...
+a) Praha; 
+b) Brno; 
+c) Usti nad Labem; 
+d) Ostrava;
+
+4. Rychlostni limit v centru Prahy je ...(miles per hour)
+a) 30; 
+b) 50; 
+c) 60; 
+d) 10;
+
+5. Kdo je platny prezident Ceske republiky?
+a) Milos Zeman; 
+b) Andrej Babis; 
+c) Adam Vojtěch; 
+d) Roman Prymula;
+
+6. Nejvetsi vyrobce automobilu v Ceske republice je ...
+a) Skoda; 
+b) Reno;
+c) Geely; 
+d) Lada;
+
+7. Kolik lidi zije v nejmensim meste v Ceske republice?
+a) 10-15; 
+b) 15-50; 
+c) 100-150; 
+d) 150-200;
+
+8. Nejdelsi reka na uzemi Ceska je ...
+a) Vltava; 
+b) Morava; 
+c) Labe; 
+d) Jihlava;
+
+9. Mezinarodni smerove cislo, ktere pouziva Ceska republika je...
+a) 420; 
+b) 421; 
+c) 430; 
+d) 350;
+
+10. V jakem roce se stala Sametova revoluce?
+a) 1985; 
+b) 1987; 
+c) 1989; 
+d) 1990;
+
+Answers:
+1-c 8 a zase Pluto, ktery po jednom shromazdeni  MAU, ktera byla v Praze byl zarazen mezi trpaslici planety;
+2-a Dennis Ritchie zase je autorem jazyka BCPL, B a operacnych sistemu ultics a Unix;
+3-a Praha je hlavni a nejvetsi mesto Ceska a zaroven je 13. nejvetsim mestem EU;
+4-a 30 miles per hour nebo 50 kilometru za hodinu, za mestem 56 m/h nebo 90km/h;
+5-a Miloš Zeman po neuspesne kandidature na prezidenta (2003) odesel na 7 let z politiky a v roce 2013 stal prezidentem;
+6-a Škoda Auto: Historie zacina v roce 1895 jako maly podnik Laurin&Klement na vyrobu kol;
+7-b Rabstejn nad Strelou Pocet obyvatel: 25;
+8-c Labe prameni v Krkonosich a na severu Cech, proteka Nemeckem az do Severniho more;
+9-a 420 ma Cesko, Slovensko ma 421 ale driv pouzivali +42 az do 28.2.1997;
+10-c 1989 pak Byla Ceska a Slovenska Federativni Republika;

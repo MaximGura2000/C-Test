@@ -1,0 +1,18 @@
+Maxim Gura
+20 ages
+Gender is Male
+Test got 9 questions and user pass test with result of 8 right answers
+Percent is 80%
+
+Anton Golutvin
+25 ages
+Gender is Male
+Test got 9 questions and user pass test with result of 1 right answers
+Percent is 11%
+
+Maxim Gura
+20 ages
+Gender is Male
+Test got 9 questions and user pass test with result of 4 right answers
+Percent is 44%
+

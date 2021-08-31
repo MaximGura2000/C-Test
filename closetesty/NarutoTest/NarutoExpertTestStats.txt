@@ -1,0 +1,29 @@
+Max Gura
+20 ages
+Gender is Male
+Test got 5 questions and user pass test with result of 5 right answers
+Percent is 100%
+
+Kamilla Abaszade
+21 ages
+Gender is Female
+Test got 5 questions and user pass test with result of 4 right answers
+Percent is 80%
+
+Maxim Gura
+20 ages
+Gender is Male
+Test got 5 questions and user pass test with result of 5 right answers
+Percent is 100%
+
+Evgeniy Opanasyuk
+23 ages
+Gender is Male
+Test got 5 questions and user pass test with result of 2 right answers
+Percent is 40%
+
+Maxim Gura
+20 ages
+Gender is Male
+Test got 5 questions and user pass test with result of 5 right answers
+Percent is 100%

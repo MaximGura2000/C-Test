@@ -1,0 +1,30 @@
+Maxim Gura
+20 ages
+Gender is Male
+Test got 10 questions and user pass test with result of 9 right answers
+Percent is 90%
+
+Maxim Gura
+20 ages
+Gender is Male
+Test got 10 questions and user pass test with result of 10 right answers
+Percent is 100%
+
+Valentyn Papusha
+22 ages
+Gender is Male
+Test got 10 questions and user pass test with result of 6 right answers
+Percent is 60%
+
+Anton Golutvin
+25 ages
+Gender is Male
+Test got 10 questions and user pass test with result of 8 right answers
+Percent is 80%
+
+m f
+2 ages
+Gender is m
+Test got 10 questions and user pass test with result of 6 right answers
+Percent is 60%
+
