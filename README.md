@@ -1,2 +1,2 @@
 # C-Test
-My C ++ project from university.
+<div align = "center">My C ++ project from university.
